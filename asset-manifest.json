@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CircleSelector/static/css/main.6eecfa69.chunk.css",
+    "main.js": "/CircleSelector/static/js/main.34724c9b.chunk.js",
+    "main.js.map": "/CircleSelector/static/js/main.34724c9b.chunk.js.map",
+    "runtime-main.js": "/CircleSelector/static/js/runtime-main.f623588f.js",
+    "runtime-main.js.map": "/CircleSelector/static/js/runtime-main.f623588f.js.map",
+    "static/js/2.7c5025f9.chunk.js": "/CircleSelector/static/js/2.7c5025f9.chunk.js",
+    "static/js/2.7c5025f9.chunk.js.map": "/CircleSelector/static/js/2.7c5025f9.chunk.js.map",
+    "index.html": "/CircleSelector/index.html",
+    "precache-manifest.cf637211ce94cdbe49baed680c6a6d00.js": "/CircleSelector/precache-manifest.cf637211ce94cdbe49baed680c6a6d00.js",
+    "service-worker.js": "/CircleSelector/service-worker.js",
+    "static/css/main.6eecfa69.chunk.css.map": "/CircleSelector/static/css/main.6eecfa69.chunk.css.map",
+    "static/js/2.7c5025f9.chunk.js.LICENSE.txt": "/CircleSelector/static/js/2.7c5025f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f623588f.js",
+    "static/js/2.7c5025f9.chunk.js",
+    "static/css/main.6eecfa69.chunk.css",
+    "static/js/main.34724c9b.chunk.js"
+  ]
+}
